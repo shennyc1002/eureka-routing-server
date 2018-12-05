@@ -1,0 +1,15 @@
+{
+  "name": "eureka-routing-server",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
